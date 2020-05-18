@@ -8,3 +8,4 @@ done
 ````
 Maths :
 $a^2$
+But math display does not work as expected !
