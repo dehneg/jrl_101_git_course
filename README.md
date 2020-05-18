@@ -1,5 +1,5 @@
 # jrl_101_git_course
-JRL 2020 git course
+Junior Research Lab 2020 git course
 
 ```bash
 for f in *txt
